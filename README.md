@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou cursando o Técnico de Informática.<br>E estudo algumas coisa de fora e faço meus projetos pessoais. <br><br>Tenho conhecimento nas linguagens: C, Python, C#(para Unity), .portugal(Algoritmo).
+Atualmente estou cursando o Técnico de Informática.<br>E estudo algumas coisa de fora e faço meus projetos pessoais. <br><br>Tenho conhecimentos em: C, Js, C#(para Unity), NodeJs, Html5/Css.
 
 
 ## 🌐 Socials:
