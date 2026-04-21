@@ -1,6 +1,7 @@
 # 💫 About Me:
-Atualmente estou cursando o Técnico de Informática, <br>estudo algumas coisa de fora e faço projetos pessoais.
-
+Estudante do Bacharelado em Física no IFSC-USP (Instituto de Física de São Carlos da Universidade de São Paulo)
+Formado em Técnico em Informática - UNIVAP
+3/4 de formação em Técnico em Automação Industrial - IFSP
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gustavohsg4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavohsg2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-souza-gimenez-5968b2268/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gustavohsg4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/gustavohsg4) 
