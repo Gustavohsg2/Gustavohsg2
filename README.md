@@ -1,6 +1,6 @@
 # 💫 About Me:
-Estudante do Bacharelado em Física no IFSC-USP (Instituto de Física de São Carlos da Universidade de São Paulo)
-Formado em Técnico em Informática - UNIVAP
+Estudante do Bacharelado em Física no IFSC-USP (Instituto de Física de São Carlos da Universidade de São Paulo),
+Formado em Técnico em Informática - UNIVAP e
 3/4 de formação em Técnico em Automação Industrial - IFSP
 
 ## 🌐 Socials:
